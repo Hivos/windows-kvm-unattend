@@ -1,3 +1,6 @@
+# Unattended install of Windows Server on KVM Host
+Sripts and howto for unattended windows server installs on kvm platform
+
 ## Procedure for creating a VM
 
 Logon to virtualization01, then first create the disks
